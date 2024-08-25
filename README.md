@@ -1,6 +1,8 @@
 # LLM-IDE
 An overview of IDEs integrating LLMs to enhance software development (more than inline completions)
 ## Independant IDE that implements LLMs "natively"
+### Cursor https://www.cursor.com/
+  Cursor is a fork of VS Code. This allows us focus on making the best way to code with AI, while offering a familiar text editing experience.
 ### Zed https://zed.dev/
   Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
 ### Devon https://github.com/entropy-research/Devon
