@@ -24,8 +24,14 @@ ChatGPT is a Neovim plugin that allows you to effortlessly utilize the OpenAI Ch
   A plugin for managing and integrating your ollama workflows in neovim. Designed to be flexible in configuration and extensible with custom functionality.
 
 ## VsCode Based Integrations 
-  
-  
+### Claude Dev https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
+  Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+### Amazon Q https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode&ssr=false#overview
+  Amazon Q can plan and implement new functionality across multiple files in your workspace.
+### Continue https://marketplace.visualstudio.com/items?itemName=Continue.continue
+  Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and   JetBrains
+### Codeium https://marketplace.visualstudio.com/items?itemName=Codeium.codeium
+   Codeium is the modern coding superpower, a free code acceleration toolkit built on cutting edge AI technology 
 ## IntelliJ Based Integrations: 
 ### Jet Brains AI https://www.jetbrains.com/fr-fr/ai/ 
   The JetBrains AI service employs different large language models (LLMs) and transparently makes them work for you as a product user. It is powered by OpenAI and Google as the primary third-party providers, as well as by a number of JetBrains’ proprietary models.
