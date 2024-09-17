@@ -7,6 +7,16 @@ An overview of IDEs integrating LLMs to enhance software development (more than 
   Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
 ### Devon https://github.com/entropy-research/Devon
   Devon: An open-source pair programmer
+### PearAI https://trypear.ai/
+  Supercharge your development with an editor designed for less coding, using AI. PearAI is forked from VSCode and Continue, and aims to reduce the time from ideation to conception for your product development by achieving the most seamless integration with AI.
+### Firebender https://firebender.com/
+  At Firebender, we are creating the best and most delightful programming experience for android developers. We're committed to using the most powerful AI technology and creating the smoothest user experience.
+### Supermaven https://supermaven.com/
+  the first code completion tool with a 300,000-token context window Supermaven is the fastest copilot with the longest context window..
+### voideditor https://voideditor.com/
+  Void is an open source Cursor alternative. Write code with the best AI tools, retain full control over your data, and access powerful AI features.I.
+
+
 ## NeoVim Based Integrations: 
 ### l.nvim https://github.com/baketnk/l.nvim 
   l.nvim is a Neovim plugin that integrates AI-assisted coding functionality into your Neovim workflow. It provides features like chat-based code generation, codeblock navigation, and seamless integration with your existing Neovim setup.
